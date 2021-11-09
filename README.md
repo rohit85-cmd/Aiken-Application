@@ -24,7 +24,7 @@ To know more about the format refer the image given below.We need to write the f
 - Programming Language
   - Java
 - IDE
-  - Notepad/Eclipse
+  - Notepad/Eclipse/VSCode
 - Package used
   - javax.swing
  ## Screenshots ##
